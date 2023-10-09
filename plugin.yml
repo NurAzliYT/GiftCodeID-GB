@@ -1,0 +1,19 @@
+name: GiftCodeID-GB
+version: 1.0.0
+description: GiftCode By NurAzliYT
+author: NurAzliYT
+api:
+  - 3.0.0
+  - 4.0.0
+  - 5.0.0
+main: NurAzliYT\GiftCode\GiftCode
+commands:
+  code:
+    description: Membuka formulir kode.
+    usage: /code
+permissions:
+  giftcodeplugin.createcode:
+    description: Izin untuk membuat kode.
+  giftcodeplugin.sendcode:
+    description: Izin untuk mengirim kode.
+    
