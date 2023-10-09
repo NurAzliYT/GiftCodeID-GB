@@ -5,6 +5,5 @@ branches:
 projects:
   GiftCodeID-GB:
     path: ""
-    libs:
-- src: jojoe77777/FormAPI/libFormAPI
+
 ...
